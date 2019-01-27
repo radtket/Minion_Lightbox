@@ -6,8 +6,6 @@ An old side project creating a jQuery Lightbox from the movie Despicable Me
 
 ## Getting started
 
-Install the starter using Gatsby Cli `gatsby new` command.
-
 ### Clone repo
 
 ``` bash
